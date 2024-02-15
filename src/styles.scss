@@ -1,0 +1,13 @@
+@import "./assets/styles/colors.scss";
+@import "./assets/styles/fonts.scss";
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height:100vh;
+    background-color: $very-dark-grey;
+}
